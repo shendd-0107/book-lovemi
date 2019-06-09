@@ -1,0 +1,414 @@
+{
+    "status": 0,
+    "data": {
+        "films": [
+            {
+                "filmId": 4632,
+                "name": "天上再见",
+                "poster": "https://pic.maizuo.com/usr/movie/c068537ba10544bdbeecee144cef22ce.jpg",
+                "actors": [
+                    {
+                        "name": " 罗兰·拉斐特",
+                        "role": "亨利·杜内-普拉代尔 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fbbf60849204e8b79523b801c5d55529.jpg"
+                    },
+                    {
+                        "name": "阿尔贝·杜邦泰尔",
+                        "role": "艾伯特·梅拉德 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7aa7eb4fa24af1c7d8d617741da00edd.jpg"
+                    },
+                    {
+                        "name": "艾米莉·德奎恩",
+                        "role": "马德琳·佩里科 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dc8023b2ab7995d921a4d8c44461cd80.jpg"
+                    },
+                    {
+                        "name": "阿尔贝·杜邦泰尔",
+                        "role": "导演 ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7aa7eb4fa24af1c7d8d617741da00edd.jpg"
+                    },
+                    {
+                        "name": "纳威尔·佩雷兹·毕斯卡亚特",
+                        "role": "爱德华·佩里科",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/23883e3755a72abaacd7199d0f1b7853.jpg"
+                    }
+                ],
+                "director": "阿尔贝·杜邦泰尔",
+                "category": "喜剧|战争|犯罪",
+                "synopsis": "演而优则导的法国演技派男星亚伯杜庞蒂自导自演的《天上再见》，改编自犯罪小说大师皮耶勒梅特的同名小说，讲述两名因目睹长官犯罪而惨遭惩处的军人，没想到退役后长官飞黄腾达，自己却一贫如洗，为不让小人得志，他们决定要为自己讨回公道。影片精彩刻画第一次世界大战过后法国社会，从血肉横飞的泥泞战场到纸醉金迷的华美派对，但即便面具绚丽华美，也掩盖不住背后的人生伤痛。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "法国    加拿大",
+                "language": "法语",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 117,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4623,
+                "name": "九龙不败",
+                "poster": "https://pic.maizuo.com/usr/movie/aabff108c7944a9b03bffc7f71d5a5ca.jpg",
+                "actors": [
+                    {
+                        "name": "张晋",
+                        "role": " 九龙",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/de486ff65c22ded1b444ec12e4b89022.jpg"
+                    },
+                    {
+                        "name": " 安德森·席尔瓦 ",
+                        "role": "冼力山",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3230c40b1a2df1673d5bb31168ce21dc.jpg"
+                    },
+                    {
+                        "name": "刘心悠 ",
+                        "role": "王梦奇  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9be4a6f5ebd4a7a31395d54b22f7b432.jpg"
+                    },
+                    {
+                        "name": "郑嘉颖 ",
+                        "role": "曹志德  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/935deb442e0271a0ba4621f2595a6a1c.jpg"
+                    }
+                ],
+                "director": "陈果",
+                "category": "剧情|动作|犯罪",
+                "synopsis": "警探九龙(张晋 饰) ，查案方式奇异狠辣却屡建奇功，是叱咤香港警界的精英干探, 但他处事独断爆裂，又被警队视为“偏执狂人”。九龙奉命调查一桩妙龄女警连环被凶杀案，用尽手段后不仅毫无线索, 他的警花未婚妻方宁（邓丽欣 饰）竟然也在这场抓捕行动中意外失踪。在爱与痛的边缘挣扎的九龙，突然发现女警连环遇害只是第一步，凶手还有着更加血腥的阴谋，自己和未婚妻竟然也被算计其中。此时澳门再度发生女警被杀案，这次的作案手法更加令人发指，但凶手好像故意留下了线索，是危险陷阱还是复仇曙光？九龙义无反顾出发，在好友王梦奇（刘心悠 饰）及国际拳王冼力山（Anderson The Spider Silva 饰）的协助下, 与澳门警司曹志德（郑嘉颖 饰）联手展开调查。魔高一丈，道高几何！血债血偿之前，就算流干最后一滴血，也要誓不罢休。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "香港  中国大陆",
+                "language": "粤语 英语",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4627,
+                "name": "半镜",
+                "poster": "https://pic.maizuo.com/usr/movie/c32fddadfe9c62d7901a1461a28a2198.jpg",
+                "actors": [
+                    {
+                        "name": "陈少虹",
+                        "role": " 小陈",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/71c38593b716c418aae8ba9b0b83af5d.jpg"
+                    },
+                    {
+                        "name": "孙黎 ",
+                        "role": "玉红  ",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c6f3a6b728bce188e49521b1ddc6569c.jpg"
+                    },
+                    {
+                        "name": "贾致钢 ",
+                        "role": "王富贵",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1da5d6a1e19b1770b1e42a778bcfc559.jpg"
+                    }
+                ],
+                "director": "杜天甫",
+                "category": "剧情|悬疑",
+                "synopsis": "玉红（孙黎饰）曾经是城里的按摩女，因追求安稳的生活，放弃了按摩店的工作，来到山村与老实人王富贵（贾致钢饰）同居。同村的小混混袁大壮（王萌饰）对玉红心生爱慕，趁王富贵不在家时，来到玉红住处与玉红谈情说爱，还威胁王富贵，扬言要带走玉红。　　玉红在两个男人中间犹豫不决。王富贵忍受不了袁大壮的侮辱与威胁，在一个大雨倾盆的夜晚，他握着一把生锈的刀来到袁大壮家附近，伺机报复。但翌日，袁大壮被杀死，凶手却另有其人……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆 ",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 96,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4631,
+                "name": "动物出击",
+                "poster": "https://pic.maizuo.com/usr/movie/746f4c15a6a2fee17c3c31ba13e8fafb.jpg",
+                "actors": [
+                    {
+                        "name": "冯小宁",
+                        "role": " 导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7fdbed4176fa52a0eb87e7af883a913a.jpg"
+                    }
+                ],
+                "director": "冯小宁",
+                "category": "科幻|冒险",
+                "synopsis": "一艘满载剧毒原料的外籍巨轮被海盗劫持，转眼间船上所有的人全部离奇死亡！只有一只鹦鹉幸存。而这艘失去控制的巨轮仍按照自动驾驶程序向港口高速驶来......一场无人知晓的巨大灾难即将降临！生死关头，一个无意中能与动物对话的小女孩从动物那里知道了这个可怕的消息，但她把这个消息告 诉大人时，没有人相信动物可以与人对话。危机之中，动物们行动起来，与女孩在一起，为拯救海洋，拯救岸上的城市和所有生命，迎着巨轮冲了上去。当女孩和动物们到达巨轮上时，他们却发现又一个更恐怖的惊天危机……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 105,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4161,
+                "name": "九克拉战栗",
+                "poster": "https://pic.maizuo.com/usr/movie/8e5912bfc7918804f49da3e7a262f45d.jpg",
+                "actors": [
+                    {
+                        "name": "付然",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/977e14bdcff1efa6464c3b0d628142b5.jpg"
+                    },
+                    {
+                        "name": "于非",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/947828ad66403d490f172cf05a41fb7b.jpg"
+                    },
+                    {
+                        "name": " 陆妍淇",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/01ed7e010bab070c00cad2ed252c615b.jpg"
+                    }
+                ],
+                "director": "林峻兆",
+                "category": "剧情|悬疑",
+                "synopsis": "珠宝店员包小萱目击一场车祸，鬼迷心窍捡走死者虞娜遗失现场的九克拉钻戒。凭着这枚钻戒走入奢华生活的同时，厄运也正在悄悄降临。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 100,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 4654,
+                "name": "捉妖学院",
+                "poster": "https://pic.maizuo.com/usr/movie/7b471c2be0c23b26d3d89b6195f559fe.jpg",
+                "actors": [
+                    {
+                        "name": "王泽宗 ",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a972101a3f73d47384d29fef0428d0f4.jpg"
+                    },
+                    {
+                        "name": "慈婉彤",
+                        "role": " 演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e74dd8e4e6d636d500d42adea523ce4c.jpg"
+                    },
+                    {
+                        "name": "周海媚",
+                        "role": " 演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/571506d0c770357be6f6582b83cf41f3.jpg"
+                    }
+                ],
+                "director": "田梓橙",
+                "category": "奇幻|冒险",
+                "synopsis": "一次意外，作为魔法界“土系”后裔的小魔豆穿过时空之门，来到了隐藏在密林深处的捉妖学院，见到了校长和学院的老师，并与其他几位作为魔法界五行家族后裔的小伙伴们一起在学院学习。但校园里一系列奇怪的事情接连发生，小魔豆和他的小伙伴们从校长口中得知，在学院的地宫之下镇压着一个绝世大魔头—闪影。闪影一旦冲破封印，捉妖学院乃至整个魔法界都将面临巨大的危机，而只有五大家族后裔合力五行能量才能消灭闪影。在联手抗敌的过程中，他们发现在闪影复活的背后隐藏着更大的秘密……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556582400,
+                "timeType": 3,
+                "runtime": 96,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 3589,
+                "name": "碟仙实录",
+                "poster": "https://pic.maizuo.com/usr/100003589/40e2574b70442e7fb0753ad92006066d.jpg",
+                "actors": [
+                    {
+                        "name": "齐炫宇",
+                        "role": "白天浩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003589/57387681cf5544b03633c82e6242c3d8.jpg"
+                    },
+                    {
+                        "name": "李漫荻",
+                        "role": "",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/595df7d47064c1befca2987458911695.jpg"
+                    },
+                    {
+                        "name": "马丁",
+                        "role": "李菲儿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/10d14a89b34f3d14e30263c29ddd6fea.jpg"
+                    }
+                ],
+                "director": "程中豪|王凯",
+                "category": "惊悚",
+                "synopsis": "某惊悚电影开拍在即，为争夺戏中女一号“四姨太”的机会，梦娜、李菲儿、李倩和雨欣四个年轻貌美的候选人被导演白天浩带到了故事的发生地，荒废很久的李家老宅体验生活，体验角色。各怀贪欲的她们正式开始了“明争暗斗。”来到古宅中，他们想要借助请碟仙的游戏来断定谁会是未来的女一号。而就在此时，接二连三的惊悚事件却也随之发生，是有人从中作梗，还是说难道真的是碟仙游戏中“传说中的四姨太”来找她们替命？待将掩盖事情真相的迷雾驱散，带着忏悔和沉思，梦娜、李菲儿、雨欣和李倩走出了老宅，那一刻她们拉住彼此的手，仿若找回了曾经善良而又单纯的自己，珍重着亲情和友情，一起为了美好的理想和未来而呐喊和努力。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "普通话",
+                "videoId": "",
+                "premiereAt": 1556668800,
+                "timeType": 2,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4644,
+                "name": "人尽皆知",
+                "poster": "https://pic.maizuo.com/usr/movie/bb3f0ee89d9f09ab550cb278c2cdb860.jpg",
+                "actors": [
+                    {
+                        "name": "哈维尔·巴登",
+                        "role": "Paco",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dd616870f3dce0e001f24af0582def51.jpg"
+                    },
+                    {
+                        "name": "佩内洛普·克鲁兹",
+                        "role": "Laura",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f33fa1c5572a3d4d81dc28c06c0bf1e.jpg"
+                    },
+                    {
+                        "name": "里卡多·达林",
+                        "role": "Alejandro",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/83e71c3d24ca5781e857f040e1ee596c.jpg"
+                    }
+                ],
+                "director": "阿斯哈·法哈蒂",
+                "category": "剧情|悬疑",
+                "synopsis": "《人尽皆知》讲述了定居在阿根廷的西班牙裔女子劳拉和她的丈夫及孩子回到西班牙小镇参加姐姐的婚礼，然而孩子却莫名失踪，这一突发事件使得原本和谐的家庭开始互相猜疑，尘封许久的秘密逐渐浮出水面……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "西班牙  法国",
+                "language": "西班牙语  英语",
+                "videoId": "",
+                "premiereAt": 1556668800,
+                "timeType": 2,
+                "runtime": 132,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4645,
+                "name": "尺八·一声一世",
+                "poster": "https://pic.maizuo.com/usr/movie/c24fc5d02fa8df65456ee2a54d677e59.jpg",
+                "actors": [
+                    {
+                        "name": "聿馨 ",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c069afb64958d8eb1cbb57d822f5dbcb.jpg"
+                    },
+                    {
+                        "name": "佐藤康夫",
+                        "role": " 自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f74cc4cacecf974cde84b51e86413471.jpg"
+                    },
+                    {
+                        "name": "小凑昭尚",
+                        "role": " 自己",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c7625ccc266ba4dc305e8f27d257044c.jpg"
+                    }
+                ],
+                "director": "聿馨",
+                "category": "纪录片",
+                "synopsis": "本片通过记录中国，日本，美国等地的尺八演奏家，制管师，学习者的生活，去见证在尺八之路上行走着的人们，通过他们不同阶段的经历与思考，折射出来古老的尺八在当下的困境与希望，也通过尺八去映照出每个人对生活，生命，世界的认知与感悟。　　尺八，由竹子根部制成的管状乐器，因管长一尺八寸得名。尺八源于中国，在南宋时期传至日本发展至今，成为日本传统乐器的代表；而在中国，尺八却日渐式微。20世纪末期，随着中日民间的文化交流活动的增加，尺八重新回到中国人的视野。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "汉语普通话   日语 ",
+                "videoId": "",
+                "premiereAt": 1556668800,
+                "timeType": 2,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": false,
+                "isSale": false
+            },
+            {
+                "filmId": 4624,
+                "name": "港珠澳大桥",
+                "poster": "https://pic.maizuo.com/usr/movie/5794eafc05b48d9e61d34c23cf6b261b.jpg",
+                "actors": [
+                    {
+                        "name": "闫东 ",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bbf5a038a817e8ea53806460060277b3.jpg"
+                    }
+                ],
+                "director": "闫东",
+                "category": "纪录片",
+                "synopsis": "本片以港珠澳大桥建设最后一节沉管E30 号沉放安装过程为叙述主线，表现了中国桥梁建设者们自力更生、“敢为天下先”的创新精神和艰苦卓绝的奋斗历程，展示了大桥项目涉及水文、地质、白海豚、防台风和满足通航、海事、航空限高等复杂的建设难题，并将大桥主体工程桥、岛、隧三大部分的设计理念和世界领先的关键技术，如万花筒般呈现出来。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆   香港   澳门",
+                "language": "汉语普通话",
+                "videoId": "",
+                "premiereAt": 1556668800,
+                "timeType": 3,
+                "runtime": 70,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 44
+    },
+    "msg": "ok"
+}
